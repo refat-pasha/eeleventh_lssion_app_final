@@ -24,7 +24,7 @@ This project was not built in a single step — it evolved through multiple stag
 ---
 
 
-### 🧠 Phase 3 – Flask + SQLAlchemy Backend  
+### 🧠 Phase 2 – Flask + SQLAlchemy Backend  
 🔗 https://github.com/refat-pasha/11th-lesson_SQLAlchemy_userAuth_quiz_table  
 - Advanced backend using Flask  
 - Structured database with SQLAlchemy  
@@ -35,7 +35,7 @@ This project was not built in a single step — it evolved through multiple stag
 ---
 
 
-### ⚙️ Phase 2 – PHP + MySQL Backend  
+### ⚙️ Phase 3 – PHP + MySQL Backend  
 🔗 https://github.com/refat-pasha/11th-lesson-with-php-backend-and-mysql  
 - Implemented user authentication  
 - Dynamic content handling  
