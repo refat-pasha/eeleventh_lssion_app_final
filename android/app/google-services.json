@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261529159171",
+    "project_id": "eeleventh-lssion-app-final",
+    "storage_bucket": "eeleventh-lssion-app-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261529159171:android:82cfeb8e3a372618e8b036",
+        "android_client_info": {
+          "package_name": "com.example.eeleventh_lssion_app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261529159171-fs92c2jfh60p8urrduvroudno6jb5vq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JicCdmRi9G2F3QyY5yDSXGQnlC-H_0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261529159171-fs92c2jfh60p8urrduvroudno6jb5vq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
