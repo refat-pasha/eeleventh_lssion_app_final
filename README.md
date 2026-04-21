@@ -86,27 +86,70 @@ This project was not built in a single step — it evolved through multiple stag
 
 
 
+## 📸 Screenshots
+
 ### 🔐 Authentication & Onboarding
+<p align="center">
+  <img src="screenshots/logIn.jpeg" width="250"/>
+  <img src="screenshots/registration.jpeg" width="250"/>
+  <img src="screenshots/roleSelect.png" width="250"/>
+  <img src="screenshots/roleSelectionAsTeacher.png" width="250"/>
+  <img src="screenshots/splashScreen.jpeg" width="250"/>
+</p>
 
+---
 
+### 🏠 Dashboard & Learning Experience
+<p align="center">
+  <img src="screenshots/dashboard1.png" width="250"/>
+  <img src="screenshots/dashboard2.png" width="250"/>
+  <img src="screenshots/progress.png" width="250"/>
+  <img src="screenshots/XPandWeekly activity.png" width="250"/>
+</p>
 
-### 🏠 Dashboard & Learning
-
-
+---
 
 ### 🧠 Quiz System
+<p align="center">
+  <img src="screenshots/quizes.jpg" width="250"/>
+  <img src="screenshots/takeQuiz.png" width="250"/>
+  <img src="screenshots/quizCreation.png" width="250"/>
+  <img src="screenshots/quizCompletion.png" width="250"/>
+  <img src="screenshots/quizProgress.png" width="250"/>
+</p>
 
+---
 
+### 📂 Assignments & Content Upload
+<p align="center">
+  <img src="screenshots/assignment.png" width="250"/>
+  <img src="screenshots/assignmentCreate.png" width="250"/>
+  <img src="screenshots/materialUpload.jpg" width="250"/>
+  <img src="screenshots/studyMaterial.png" width="250"/>
+</p>
 
-### 📂 Assignments & Upload
+---
 
+### 👥 Study Groups & Collaboration
+<p align="center">
+  <img src="screenshots/groupJoin.png" width="250"/>
+  <img src="screenshots/groupMembers.png" width="250"/>
+</p>
 
+---
 
-### 👥 Study Groups
+### 📚 Offline Learning
+<p align="center">
+  <img src="screenshots/offlineLibrary.png" width="250"/>
+</p>
 
+---
 
-
-### 👤 Profile
+### 👤 Profile & Settings
+<p align="center">
+  <img src="screenshots/studentProfile.png" width="250"/>
+  <img src="screenshots/teacherProfile.jpg" width="250"/>
+</p>
 
 
 
